@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/meridian-spirits-demand-demo/_next/static/chunks/ffc945a8f253bd73.js","/meridian-spirits-demand-demo/_next/static/chunks/5e23abe84ceb9040.js","/meridian-spirits-demand-demo/_next/static/chunks/a2dfb6fc5208ab9b.js","/meridian-spirits-demand-demo/_next/static/chunks/72f1e0030c7a8d06.js"],"default"]
+3:I[37457,["/meridian-spirits-demand-demo/_next/static/chunks/ffc945a8f253bd73.js","/meridian-spirits-demand-demo/_next/static/chunks/5e23abe84ceb9040.js","/meridian-spirits-demand-demo/_next/static/chunks/a2dfb6fc5208ab9b.js","/meridian-spirits-demand-demo/_next/static/chunks/72f1e0030c7a8d06.js"],"default"]
+0:{"buildId":"-b60Ez7eTJbyWKvdjki0C","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
